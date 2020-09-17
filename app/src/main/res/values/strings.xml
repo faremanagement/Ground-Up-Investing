@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ground Up Investing</string>
+    <string name="welcome">Welcome To</string>
+    <string name="company_logo">Company Logo</string>
+    <string name="login">Log in </string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="legal">copyright and legal info here</string>
+    <string name="facebook_application_id" translatable="false">1072487676456478</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1072487676456478</string>
+    <string name="next">Next</string>
+    <string name="not_now"><u>Not Now</u></string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "565491375774",
+    "firebase_url": "https://ground-up-investing.firebaseio.com",
+    "project_id": "ground-up-investing",
+    "storage_bucket": "ground-up-investing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565491375774:android:ddb4c040ee4b86fe08258f",
+        "android_client_info": {
+          "package_name": "com.faremanagement.groundupinvesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565491375774-k5u5qkikva4nu55fhjg7kdhgqvtlviio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.faremanagement.groundupinvesting",
+            "certificate_hash": "060ff8bbab33b973512d0ec8ff46f7739431b499"
+          }
+        },
+        {
+          "client_id": "565491375774-sqng1bd8dmvrrmi1rtmtnlvq0v7jinae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwWKxYO5KHnd74TjZFljEkOJJVcMFQWmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565491375774-sqng1bd8dmvrrmi1rtmtnlvq0v7jinae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
